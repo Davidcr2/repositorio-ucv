@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davidcr2.github.io/repositorio-ucv/sitemap.xml
